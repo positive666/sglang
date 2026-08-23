@@ -1,0 +1,35 @@
+python/sglang/srt/model_executor/pool_configurator.py
+  s_13482efb4422ed::t_3a2e7e7cc3860d 17,137-148,446-450,453,655-662,666-679
+  s_13482efb4422ed::t_75b64dbfdb91d6 452,663-665
+  s_13482efb4422ed::t_71ad69cc5163b4 451
+python/sglang/srt/server_args.py
+  s_13482efb4422ed::t_3a2e7e7cc3860d 2619-2624
+  s_13482efb4422ed::t_774920c8572b86 2625-2626
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  s_13482efb4422ed::t_3a2e7e7cc3860d 2148-2156,2180,2209-2294
+  s_13482efb4422ed::t_9e948596e36714 2146-2147
+test/registered/unit/mem_cache/test_mamba_cache_rebalance.py
+  s_13482efb4422ed::t_f183c1ceecde23 7-10,116-135
+  s_13482efb4422ed::t_8eae295333177c 1-6,11-21,25-39,41,45-51,66-93,99,107-115,136-137,152-154
+  s_13482efb4422ed::t_da43db712e3711 22,24
+  s_13482efb4422ed::t_34d1aae5b522eb 23
+  s_13482efb4422ed::t_3a8d822c62578f 40,94-98,100-106
+  s_13482efb4422ed::t_75b64dbfdb91d6 138-151
+  s_13482efb4422ed::t_f21224dc1d6e25 42-44,52-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "b9d27ef03bea51a2389430da59863d8a6f7f4369",
+  "prompts": {},
+  "sessions": {
+    "s_13482efb4422ed": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01f08-8486-7b93-9ae9-c12f7c8e890f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cheng Rui <chengrui4@lenovo.com>"
+    }
+  }
+}
