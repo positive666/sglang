@@ -1,0 +1,41 @@
+test/registered/unit/model_executor/test_pool_configurator.py
+  s_13482efb4422ed::t_08ccecc8bd1f31 251-256,430-436,697-703
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  s_13482efb4422ed::t_3a2e7e7cc3860d 2212,2226-2228,2235
+  s_13482efb4422ed::t_c4b41e3c3e0b76 2146-2147,2157-2158,2182,2211,2213-2225,2229-2234,2243-2291
+  s_13482efb4422ed::t_7ce9ec504876be 2148-2156
+  s_13482efb4422ed::t_258a97d8ec1c63 2236-2242
+python/sglang/srt/model_executor/pool_configurator.py
+  s_13482efb4422ed::t_dde6efbbb165cc 17,137-148,446-453,655-677
+python/sglang/srt/server_args.py
+  s_13482efb4422ed::t_fd9f6997855a64 2614-2616,2620
+  s_13482efb4422ed::t_49d3c52689fa2c 2617-2619
+test/registered/unit/mem_cache/test_mamba_cache_rebalance.py
+  s_13482efb4422ed::t_49d3c52689fa2c 32-35,52-55,90-93,132-135
+  s_13482efb4422ed::t_fc2de8f6d7b224 1-4,9-12,14-25,45-47,56-60,69-78,94,148-151
+  s_13482efb4422ed::t_c1bcd026b4ef43 111-118
+  s_13482efb4422ed::t_dde6efbbb165cc 5-8,13,26-31,36-44,48-51,61-68,79-89,95-110,119-131,136-147
+docs/docs/advanced_features/server_arguments.mdx
+  s_13482efb4422ed::t_49d3c52689fa2c 1993
+docs/cookbook/autoregressive/Qwen/Qwen3.8-27B.mdx
+  s_13482efb4422ed::t_fd9f6997855a64 56-57
+  s_13482efb4422ed::t_49d3c52689fa2c 58-62
+  s_13482efb4422ed::t_e1baba5e3b4ba8 49-52
+  s_13482efb4422ed::t_d92940465be2af 55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "35cbb47ddb03c4ace6e412ea4902088cb093a4a7",
+  "prompts": {},
+  "sessions": {
+    "s_13482efb4422ed": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01f08-8486-7b93-9ae9-c12f7c8e890f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
