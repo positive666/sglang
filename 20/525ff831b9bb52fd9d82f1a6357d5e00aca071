@@ -1,0 +1,30 @@
+benchmark/kernels/fused_moe_triton/common_utils.py
+  s_37447df49ef28e::t_4465414f115d17 27-65
+  s_37447df49ef28e::t_734235e7e7fe4f 2-4
+test/registered/unit/layers/moe/test_fused_moe_common_utils.py
+  s_37447df49ef28e::t_b11155825c656a 57-82
+  s_37447df49ef28e::t_4465414f115d17 6
+  s_37447df49ef28e::t_72b6042e2773fe 83-84
+benchmark/kernels/fused_moe_triton/tuning_fused_moe_triton_sep.py
+  s_37447df49ef28e::t_b11155825c656a 23,122-123,563,646,804
+benchmark/kernels/fused_moe_triton/README.md
+  s_37447df49ef28e::t_734235e7e7fe4f 77-79
+  s_37447df49ef28e::t_4465414f115d17 80
+  s_37447df49ef28e::t_a3c02841b20666 81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "20525ff831b9bb52fd9d82f1a6357d5e00aca071",
+  "prompts": {},
+  "sessions": {
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cheng Rui <chengrui4@lenovo.com>"
+    }
+  }
+}
