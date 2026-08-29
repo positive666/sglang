@@ -1,0 +1,28 @@
+python/sglang/srt/model_executor/model_runner.py
+  s_37447df49ef28e::t_6d97ec9a399a0d 630,665-668,673-680
+  s_37447df49ef28e::t_0200009cab88ed 670
+  s_37447df49ef28e::t_ab3910032f86ae 669,671-672
+python/sglang/srt/layers/attention/qwen_sparse_attn_backend.py
+  s_37447df49ef28e::t_6d97ec9a399a0d 12-13,15,50-61,85,89-94,97-112,114-119,121-170,172-176,1727-1728,1737,1740
+  s_37447df49ef28e::t_97128434909b06 1952-1953,1957
+  s_37447df49ef28e::t_4c5071cac87ae9 120
+test/registered/unit/layers/attention/test_qsa_decode_backend_resolution.py
+  s_37447df49ef28e::t_941e4259e3a067 22
+  s_37447df49ef28e::t_380663564f8e92 1-21,23-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "49a930615ca3da0a727e44d85900ea5619b95c2b",
+  "prompts": {},
+  "sessions": {
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cheng Rui <chengrui4@lenovo.com>"
+    }
+  }
+}
