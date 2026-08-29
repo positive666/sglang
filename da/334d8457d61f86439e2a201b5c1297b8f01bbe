@@ -1,0 +1,21 @@
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_7_1/E=128,N=640,device_name=NVIDIA_L20,dtype=fp8_w8a8,block_shape=[128, 128].json"
+  s_37447df49ef28e::t_4d1c74b0102310 1-90
+"python/sglang/srt/layers/moe/moe_runner/triton_utils/configs/triton_3_7_1/E=128,N=640,device_name=NVIDIA_L20,dtype=fp8_w8a8,block_shape=[128, 128]_down.json"
+  s_37447df49ef28e::t_4d1c74b0102310 1-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "da334d8457d61f86439e2a201b5c1297b8f01bbe",
+  "prompts": {},
+  "sessions": {
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cheng Rui <chengrui4@lenovo.com>"
+    }
+  }
+}
