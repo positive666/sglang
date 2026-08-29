@@ -1,0 +1,37 @@
+python/sglang/srt/layers/attention/qwen_sparse_attn_backend.py
+  s_37447df49ef28e::t_2dfcf741182450 58-59,114,120-122,125,127,129-130,133-136,138-140
+  s_37447df49ef28e::t_4c0e5cf3450942 55
+  s_37447df49ef28e::t_4c5071cac87ae9 118
+  s_37447df49ef28e::t_97128434909b06 1917-1918,1922
+  s_37447df49ef28e::t_6d97ec9a399a0d 12,14,49-54,56-57,83,87-92,95-113,115-117,119,123-124,126,128,131,141,1692-1693,1702,1705
+test/registered/unit/layers/attention/test_qsa_decode_backend_resolution.py
+  s_37447df49ef28e::t_941e4259e3a067 31
+  s_37447df49ef28e::t_e6649cc9859d79 17-18
+  s_37447df49ef28e::t_849f2c1a336d91 106-108,130
+  s_37447df49ef28e::t_380663564f8e92 1,3-5,7-13,21-30,32-60,67-79,81-92,99,131-134
+  s_37447df49ef28e::t_2dfcf741182450 2,6,61-66,80,93-98,100-105,109-129
+  s_37447df49ef28e::t_151216342a6e35 14-16,19-20
+python/sglang/srt/model_executor/model_runner.py
+  s_37447df49ef28e::t_ab3910032f86ae 667
+  s_37447df49ef28e::t_6d97ec9a399a0d 630,665
+  s_37447df49ef28e::t_2dfcf741182450 668,675
+  s_37447df49ef28e::t_4c0e5cf3450942 666,669-674
+python/sglang/srt/layers/attention/qsa/preflight.py
+  s_37447df49ef28e::t_2dfcf741182450 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "330206c3841a28188fd91f3175d804cffdc30409",
+  "prompts": {},
+  "sessions": {
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
