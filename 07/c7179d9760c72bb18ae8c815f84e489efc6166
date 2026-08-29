@@ -1,0 +1,31 @@
+test/registered/unit/layers/attention/test_qsa_decode_backend_resolution.py
+  s_37447df49ef28e::t_151216342a6e35 12-18
+  s_37447df49ef28e::t_941e4259e3a067 29
+  s_37447df49ef28e::t_380663564f8e92 1-11,19-28,30-106
+python/sglang/srt/layers/attention/qwen_sparse_attn_backend.py
+  s_37447df49ef28e::t_6d97ec9a399a0d 12,14,49-54,56-57,83,87-92,95-117,119-174,1735-1736,1745,1748
+  s_37447df49ef28e::t_4c5071cac87ae9 118
+  s_37447df49ef28e::t_4c0e5cf3450942 55,58-59,177-178,180-184,1965
+  s_37447df49ef28e::t_97128434909b06 1960-1961,1966
+  s_37447df49ef28e::t_798c183b384028 175
+python/sglang/srt/model_executor/model_runner.py
+  s_37447df49ef28e::t_4c0e5cf3450942 666,669-675
+  s_37447df49ef28e::t_ab3910032f86ae 667
+  s_37447df49ef28e::t_6d97ec9a399a0d 630,665,668
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "07c7179d9760c72bb18ae8c815f84e489efc6166",
+  "prompts": {},
+  "sessions": {
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
