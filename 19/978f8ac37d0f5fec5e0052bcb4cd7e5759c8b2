@@ -14,6 +14,7 @@ python/sglang/srt/mem_cache/swa_radix_cache.py
 python/sglang/srt/mem_cache/unified_cache/unified_tree_core.py
   s_909e95d74b3104::t_6b0e6d67ccb8c3 739,782,805,1885,1902,1910
   s_909e95d74b3104::t_249499f571dc89 379,740-741,789-791,804,806,1026-1030,1037-1039,1093,1102,1109-1112,1881-1882,1888-1890,1892,1903,1930
+  s_37447df49ef28e::t_1cc30691d2ed66 1106
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -21,6 +22,14 @@ python/sglang/srt/mem_cache/unified_cache/unified_tree_core.py
   "base_commit_sha": "19978f8ac37d0f5fec5e0052bcb4cd7e5759c8b2",
   "prompts": {},
   "sessions": {
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cheng Rui <286040359@qq.com>"
+    },
     "s_909e95d74b3104": {
       "agent_id": {
         "tool": "codex",
