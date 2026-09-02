@@ -1,0 +1,21 @@
+python/sglang/srt/layers/attention/qwen_sparse_attn_backend.py
+  s_37447df49ef28e::t_f40edd5d068489 12,14,49-60,84,87-91,93-95,99-104,107-149,151-154,156-159,323,1710-1711,1720,1723,1935-1936,1940
+test/registered/unit/layers/attention/test_qsa_decode_backend_resolution.py
+  s_37447df49ef28e::t_5910b946647ec9 1-147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "58a9680c4b3b2d669aaeb8f35e15eeb0905ff8e7",
+  "prompts": {},
+  "sessions": {
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cheng Rui <286040359@qq.com>"
+    }
+  }
+}
