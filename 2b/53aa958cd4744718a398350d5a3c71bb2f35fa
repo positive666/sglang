@@ -1,0 +1,18 @@
+python/sglang/srt/environ.py
+  h_5735fc0a2fbe3e 1182-1186
+test/registered/unit/sampling/test_sampler_from_logits.py
+  h_5735fc0a2fbe3e 1-153
+python/sglang/srt/layers/sampler.py
+  h_5735fc0a2fbe3e 32,36-37,45-46,107-111,247-254,256-262,264-280,300-344
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "2b53aa958cd4744718a398350d5a3c71bb2f35fa",
+  "prompts": {},
+  "humans": {
+    "h_5735fc0a2fbe3e": {
+      "author": "Cheng Rui <chengrui4@lenovo.com>"
+    }
+  }
+}
