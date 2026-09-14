@@ -1,0 +1,25 @@
+python/sglang/srt/layers/attention/qwen_sparse_attn_backend.py
+  s_37447df49ef28e::t_f40edd5d068489 12,14,48-59,79,82-86,88-90,94-99,102-144,146-149,151-154,293,1597-1598,1607,1610,1811-1812,1816
+test/registered/unit/layers/attention/test_qsa_decode_backend_resolution.py
+  s_37447df49ef28e::t_5910b946647ec9 1-61,70-152,185-187
+python/sglang/srt/layers/attention/qsa/preflight.py
+  s_37447df49ef28e::t_460990b48e3c27 1-29
+python/sglang/srt/model_executor/model_runner.py
+  s_37447df49ef28e::t_c7f33f07639188 660,694-704
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "6a4a40b3ebad1611faa1603c59caba38ba85efad",
+  "prompts": {},
+  "sessions": {
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cheng Rui <286040359@qq.com>"
+    }
+  }
+}
