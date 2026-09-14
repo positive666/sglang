@@ -1,0 +1,37 @@
+test/registered/unit/model_executor/test_pool_configurator.py
+  s_13482efb4422ed::t_08ccecc8bd1f31 258-263,437-443,704-710
+test/registered/unit/mem_cache/test_mamba_cache_rebalance.py
+  s_13482efb4422ed::t_fc2de8f6d7b224 1-4,9-12,14-25,45-47,56-60,69-78,94,148-149,198-199
+  s_13482efb4422ed::t_49d3c52689fa2c 32-35,52-55,90-93,132-135
+  s_13482efb4422ed::t_dde6efbbb165cc 5-8,13,26-31,36-44,48-51,61-68,79-89,95-110,119-131,136-147
+  s_13482efb4422ed::t_c1bcd026b4ef43 111-118
+docs/cookbook/autoregressive/Qwen/Qwen3.8-27B.mdx
+  s_13482efb4422ed::t_49d3c52689fa2c 55-59
+  s_13482efb4422ed::t_d92940465be2af 52
+  s_13482efb4422ed::t_e1baba5e3b4ba8 46-49
+  s_13482efb4422ed::t_fd9f6997855a64 53-54
+python/sglang/srt/model_executor/pool_configurator.py
+  s_13482efb4422ed::t_dde6efbbb165cc 17,171-182,564-571,819-841
+python/sglang/srt/mem_cache/kv_cache_configurator.py
+  s_13482efb4422ed::t_3a2e7e7cc3860d 2554,2568-2570,2577
+  s_13482efb4422ed::t_c4b41e3c3e0b76 2526,2553,2555-2567,2571-2576,2585-2633
+  s_13482efb4422ed::t_258a97d8ec1c63 2578-2584
+docs/docs/advanced_features/server_arguments.mdx
+  s_13482efb4422ed::t_49d3c52689fa2c 2003
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "8e1cca7be84a37af41a9578af0856b831962bb08",
+  "prompts": {},
+  "sessions": {
+    "s_13482efb4422ed": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01f08-8486-7b93-9ae9-c12f7c8e890f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
