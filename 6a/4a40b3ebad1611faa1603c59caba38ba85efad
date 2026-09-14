@@ -1,7 +1,9 @@
 python/sglang/srt/layers/attention/qwen_sparse_attn_backend.py
   s_37447df49ef28e::t_f40edd5d068489 12,14,48-59,79,82-86,88-90,94-99,102-144,146-149,151-154,293,1597-1598,1607,1610,1811-1812,1816
+  s_37447df49ef28e::t_92ca1296685d6b 87
 test/registered/unit/layers/attention/test_qsa_decode_backend_resolution.py
   s_37447df49ef28e::t_5910b946647ec9 1-61,70-152,185-187
+  s_37447df49ef28e::t_7cf77652859508 62-69,153-184
 python/sglang/srt/layers/attention/qsa/preflight.py
   s_37447df49ef28e::t_460990b48e3c27 1-29
 python/sglang/srt/model_executor/model_runner.py
