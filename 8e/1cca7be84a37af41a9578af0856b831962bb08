@@ -5,6 +5,7 @@ test/registered/unit/mem_cache/test_mamba_cache_rebalance.py
   s_13482efb4422ed::t_49d3c52689fa2c 32-35,52-55,90-93,132-135
   s_13482efb4422ed::t_dde6efbbb165cc 5-8,13,26-31,36-44,48-51,61-68,79-89,95-110,119-131,136-147
   s_13482efb4422ed::t_c1bcd026b4ef43 111-118
+  s_37447df49ef28e::t_26f1c8424a28b7 150-197
 docs/cookbook/autoregressive/Qwen/Qwen3.8-27B.mdx
   s_13482efb4422ed::t_49d3c52689fa2c 55-59
   s_13482efb4422ed::t_d92940465be2af 52
@@ -16,8 +17,11 @@ python/sglang/srt/mem_cache/kv_cache_configurator.py
   s_13482efb4422ed::t_3a2e7e7cc3860d 2554,2568-2570,2577
   s_13482efb4422ed::t_c4b41e3c3e0b76 2526,2553,2555-2567,2571-2576,2585-2633
   s_13482efb4422ed::t_258a97d8ec1c63 2578-2584
+  s_37447df49ef28e::t_33c0c8e6301238 2510-2523
 docs/docs/advanced_features/server_arguments.mdx
   s_13482efb4422ed::t_49d3c52689fa2c 2003
+python/sglang/srt/arg_groups/fields/schedule.py
+  s_37447df49ef28e::t_33c0c8e6301238 201-202,207-209
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -32,6 +36,14 @@ docs/docs/advanced_features/server_arguments.mdx
         "model": "gpt-5.6-sol"
       },
       "human_author": null
+    },
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Cheng Rui <286040359@qq.com>"
     }
   }
 }
