@@ -1,0 +1,23 @@
+test/registered/unit/mem_cache/test_radix_cache_unit.py
+  s_37447df49ef28e::t_1ab923642bd08b 250-279,337-377
+  s_37447df49ef28e::t_26f1c8424a28b7 333
+  s_37447df49ef28e::t_f6c3c469b26046 280-332,334-336
+benchmark/scheduler/bench_radix_tree_e2e.py
+  s_37447df49ef28e::t_56ec72b33b67f7 1-155
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "300f8c504e5e75d04ce1174aef254b036f28f95c",
+  "prompts": {},
+  "sessions": {
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Cheng Rui <286040359@qq.com>"
+    }
+  }
+}
