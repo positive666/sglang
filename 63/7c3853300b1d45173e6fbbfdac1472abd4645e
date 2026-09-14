@@ -4,6 +4,7 @@ test/registered/unit/sampling/test_sampler_from_logits.py
   h_5735fc0a2fbe3e 1-153
 python/sglang/srt/layers/sampler.py
   h_5735fc0a2fbe3e 36,40-41,49-50,132-136,270-277,279-283,290-296,336-380
+  s_37447df49ef28e::t_645f00d0fb99eb 284-289
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -13,6 +14,16 @@ python/sglang/srt/layers/sampler.py
   "humans": {
     "h_5735fc0a2fbe3e": {
       "author": "Cheng Rui <chengrui4@lenovo.com>"
+    }
+  },
+  "sessions": {
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Cheng Rui <286040359@qq.com>"
     }
   }
 }
