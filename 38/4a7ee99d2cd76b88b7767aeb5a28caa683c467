@@ -1,0 +1,34 @@
+python/sglang/srt/environ.py
+  h_5735fc0a2fbe3e 1372-1376
+test/registered/kernels/ops/sampling/test_sampler_from_logits.py
+  s_37447df49ef28e::t_6e2249636c9d5a 1-153
+test/registered/unit/sampling/test_sampler_from_logits_dispatch.py
+  s_37447df49ef28e::t_f77a49add1750b 103-108
+  s_37447df49ef28e::t_45311321494522 1-31,33-102
+  s_37447df49ef28e::t_66760bc9e548fe 32
+python/sglang/srt/layers/sampler.py
+  s_37447df49ef28e::t_fe6d5b25cd14d1 281-282,285,288-292
+  s_37447df49ef28e::t_645f00d0fb99eb 295-301
+  h_5735fc0a2fbe3e 37,41-42,50-51,135-139,277-280,283-284,286-287,293-294,303-309,352-396
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "384a7ee99d2cd76b88b7767aeb5a28caa683c467",
+  "prompts": {},
+  "humans": {
+    "h_5735fc0a2fbe3e": {
+      "author": "Cheng Rui <chengrui4@lenovo.com>"
+    }
+  },
+  "sessions": {
+    "s_37447df49ef28e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0475d-03e4-7ee0-9a97-291181cdf068",
+        "model": "gpt-6-astra"
+      },
+      "human_author": null
+    }
+  }
+}
